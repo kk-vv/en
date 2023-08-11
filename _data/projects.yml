@@ -1,0 +1,27 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# - project: Oneclass
+#   role: 
+#   duration: 
+#   url: "https://apps.apple.com/ca/app/oneclass/id1509374392"
+#   description: Homework Help by OneClass is a powerful learning tool that enables you to understand and solve even your toughest academic questions.
+
+#   - project: Chirp
+#   role: 
+#   duration: 
+#   url: "https://apps.apple.com/app/id6444546837"
+#   description: IM platform for web3ers  
+
+
+- project: Oneclass
+  role: iOS Developer
+  duration: 
+  url: "https://apps.apple.com/ca/app/oneclass/id1509374392"
+  description: Homework Help by OneClass is a powerful learning tool that enables you to understand and solve even your toughest academic questions.
+
+- project: Chirp
+  role: iOS Developer/ Team Leader
+  duration: 
+  url: "https://apps.apple.com/app/id6444546837"
+  description: IM platform for web3ers 
